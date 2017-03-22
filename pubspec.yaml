@@ -1,0 +1,19 @@
+name: mdl_tuktuk
+version: 0.0.1
+description: Material Design Lite Tour Page
+author: Jacob Gadikian <faddat@gmail.com>
+homepage: https://github.com/faddat/mdl-tuktuk
+
+environment:
+  sdk: '>=1.0.0 <2.0.0'
+
+dependencies:
+  browser: any
+  mdl: any
+  logging: any
+  logging_handlers: any
+  console_log_handler: any
+  di: any
+
+transformers:
+  - di
