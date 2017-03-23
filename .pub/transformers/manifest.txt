@@ -1,2 +1,2 @@
 1.23.0-dev.8.0
-di
+di/module_transformer
